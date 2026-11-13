@@ -1,6 +1,6 @@
 ---
 title: "Class 05: Data Viz with ggplot"
-author: "Nataly (PID: A69046123)"
+author: "Nataly"
 format: pdf
 toc: true
 ---
